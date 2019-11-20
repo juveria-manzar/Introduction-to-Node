@@ -1,0 +1,19 @@
+{
+  "name": "node-project",
+  "version": "12.13.1",
+  "description": "a simple web App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juveria-manzar/Introduction-to-Node.git"
+  },
+  "author": "Juveria Manzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juveria-manzar/Introduction-to-Node/issues"
+  },
+  "homepage": "https://github.com/juveria-manzar/Introduction-to-Node#readme"
+}
